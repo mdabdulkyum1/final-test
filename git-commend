@@ -1,0 +1,18 @@
+1. git init
+1. git config --list
+1. git user name & email setup.
+   1.  git config --global user.name "mdabdulkyum1"
+   2.  git config --global user.email "mdabdulkyum1"
+
+..git main cmd..
+01. git status
+02. git add . or git add all
+03. git commit -m "some itmes add" 
+04. git log | short way git log --oneline {All work show}
+05. git checkout 
+06. git checkout mastar
+07. git diff
+08. git show commit id
+09. git diff --staged
+10. git rm file name.
+11. rmdir /s /q .git [ this commend means This process will effectively "uninitialize" the Git repository. Your project files will remain intact, but all version control data will be removed. ]
